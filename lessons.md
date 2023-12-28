@@ -9,3 +9,5 @@
 - HTML Syntax
 - HTML structure
 - First HTML tags
+
+## Lesson 3

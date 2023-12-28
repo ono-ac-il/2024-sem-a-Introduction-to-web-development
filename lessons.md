@@ -13,6 +13,7 @@
 ## Lesson 3
 
 - Right to left: `<body dir="rtl">`
+- line break: `<br>`
 - text input: `<input>`
 - Date input `<input type="date">`
 - Chechbox input: `<input type="checkbox">`

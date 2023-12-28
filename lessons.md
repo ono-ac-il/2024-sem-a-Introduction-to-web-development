@@ -18,6 +18,7 @@
 - Date input `<input type="date">`
 - Chechbox input: `<input type="checkbox">`
 - file input: `<input type="file">`
+- label: `<label>text: <input></label>`
 - radio buttons (it's a group of inputs, we must use **name** attribute):
 
 ```html
